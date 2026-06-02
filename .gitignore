@@ -1,0 +1,10 @@
+# React Frontend GitIgnore
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+
+# Secrets and environment configurations
+.env
+.env.*
